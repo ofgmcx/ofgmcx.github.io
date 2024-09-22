@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ofgmcx.github.io/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/app/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/assets/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/css/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/data/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/includes/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/item/sitemap.html.gz
+Sitemap: https://ofgmcx.github.io/src/sitemap.html.gz
